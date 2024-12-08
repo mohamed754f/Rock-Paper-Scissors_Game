@@ -13,8 +13,7 @@ This is a simple implementation of the classic **Rock-Paper-Scissors** game. It 
 ---
 
 ## 🛠️ Technologies Used
-- **Programming Language**: [e.g., Python, JavaScript]
-- **Interface**: [e.g., Command Line, GUI with Tkinter or Web]
+- **Programming Language**: [C++]
 - **Tools**: [e.g., Git]
 
 ---
@@ -25,13 +24,6 @@ This is a simple implementation of the classic **Rock-Paper-Scissors** game. It 
     git clone https://github.com/mohamed754f/Rock-Paper-Scissors_Game.git
     cd Rock-Paper-Scissors_Game
     ```
-2. **Run the Game**:
-    - For Python:
-        ```bash
-        python rock_paper_scissors.py
-        ```
-    - For JavaScript:
-        Open the `index.html` file in a web browser.
 
 ---
 
